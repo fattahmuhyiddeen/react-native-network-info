@@ -15,9 +15,6 @@
     "network",
     "lan"
   ],
-  "peerDependencies": {
-    "react-native": ">=0.47"
-  },
   "author": "Corey Wilson <corey@eastcodes.com> (https://github.com/powerfulninja)",
   "license": "MIT"
 }
